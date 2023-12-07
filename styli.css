@@ -1,0 +1,31 @@
+
+
+.box{
+  width: 1500px;
+  height: 4px;
+  background-color:red;
+  margin: auto;
+
+}
+
+
+.text{
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+  margin:0px 700px auto;
+}
+.text_one{
+  margin: auto;
+}
+.box_one{
+  width: 693;
+  height: 598;
+}
+
+
+
+
+    
+
+
